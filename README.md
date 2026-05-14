@@ -7,3 +7,8 @@ Ilum - Escola de Ciência, CNPEM.
 Repositório para aprender git em aula da Ilum.
 
 Ainda aprendendo por aqui...
+
+
+
+Vamos aprender a fazer um commit local.
+
